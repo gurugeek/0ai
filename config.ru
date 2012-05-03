@@ -1,2 +1,2 @@
-require 'campinghello.rb'
+require 'schaf.rb'
 run Schaf
