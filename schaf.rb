@@ -2,7 +2,7 @@ require 'camping'
  
  Camping.goes :Schaf
   
-  module Hello::Controllers
+  module Schaf::Controllers
   
   class Index < R '/'
    def get
@@ -17,7 +17,7 @@ require 'camping'
   end
                                                           
                                                            
-   module Hello::Views
+   module Schaf::Views
                                                            
                                                              
      def index
