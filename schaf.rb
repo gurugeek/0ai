@@ -21,8 +21,8 @@ require 'camping'
                                                            
                                                              
      def index
-      h2 'odin website', :class => 'fill'
-      p 'Hello Odin :)' 
+      h2 'odin and thor website', :class => 'fill'
+      p 'Hello Thor and Odin :)' 
       p 'Welcome to 1.ai'
       p 'githubtest'
       ul do
