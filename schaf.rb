@@ -21,8 +21,8 @@ require 'camping'
                                                            
                                                              
      def index
-      h2 'run.camping.io', :class => 'fill'
-      p 'Hello Schaf :)' 
+      h2 'bambola website', :class => 'fill'
+      p 'Hello bambola :)' 
       p 'Welcome to 1.ai'
       p 'githubtest'
       ul do
