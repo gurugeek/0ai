@@ -27,7 +27,7 @@ require 'camping'
       p 'githubtest'
       ul do
       li { a '1.ai', :href => 'http://1.ai' }
-      li { a 'blog', :href => 'http://devnull.sh' }
+      li { a 'camping', :href => 'http://camping.io' }
                                                                                                         
    end
     end
